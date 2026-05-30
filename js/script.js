@@ -358,3 +358,27 @@ Ivan Adrian Prastya Portfolio
 Banking • Data Analytics • AI
 ========================================
 `);
+
+/* ==========================
+   CONTACT CONFIG
+========================== */
+
+document
+.getElementById("email-link")
+.href =
+`mailto:${CONFIG.email}`;
+
+document
+.getElementById("whatsapp-link")
+.href =
+`https://wa.me/${CONFIG.whatsapp}`;
+
+document
+.getElementById("linkedin-link")
+.href =
+CONFIG.linkedin;
+
+document
+.getElementById("github-link")
+.href =
+CONFIG.github;
