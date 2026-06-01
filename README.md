@@ -16,11 +16,7 @@ AI-powered chatbot designed to improve customer service efficiency and automate 
 
 ### 📊 Customer Analytics Dashboard
 
-Interactive dashboard built with Excel and Power BI to visualize customer insights and business performance.
-
-### 🏦 Banking Service Dashboard
-
-Monitoring dashboard for banking service performance and operational metrics.
+Interactive dashboard built with Excel and Looker Studio to visualize customer insights and business performance.
 
 ### 🌐 Personal Portfolio Website
 
@@ -32,7 +28,7 @@ Modern futuristic portfolio website built with HTML, CSS, and JavaScript.
 * CSS3
 * JavaScript
 * Excel
-* Power BI
+* Looker Studio
 * SQL
 * Python (Basic)
 * Git & GitHub
