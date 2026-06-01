@@ -18,7 +18,6 @@ const roles = [
     "Banking Professional",
     "Data Analyst",
     "AI Enthusiast",
-    "Future Relationship Manager",
     "Digital Banking Explorer"
 ];
 
